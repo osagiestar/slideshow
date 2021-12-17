@@ -13,6 +13,14 @@ let imgArray = [
   "images/Vladimir_Putin.jpg"
 ];
 
+// let imgArray = [
+//   "photos/Bill_Gates.jpg",
+//   "photos/Jack_Dorsey.jpg",
+//   "photos/Jeff_Bezos.jpg",
+//   "photos/Kim_Ki-Nam.jpeg",
+//   "photos/Mark_Zuckerberg.jpeg",
+// ];
+
 // selectors //
 let autoForwardBtn = document.querySelector("#auto-forward");
 let forwardBtn = document.querySelector("#forward");

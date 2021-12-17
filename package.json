@@ -1,0 +1,19 @@
+{
+  "name": "3-slideshow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "slideshow.js",
+  "scripts": {
+    "test": "slideshow.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/osagiestar/slideshow.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/osagiestar/slideshow/issues"
+  },
+  "homepage": "https://github.com/osagiestar/slideshow#readme"
+}
